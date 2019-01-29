@@ -1,15 +1,24 @@
 {
-    "name": "root/consulta-massa-placa-sinesp",
-    "description": "Consulta em massa de placas no Sinesp.",
-    "type": "project",
-    "require": {
-        "chapeupreto/sinesp": "^1.7"
-    },
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Renato Lucena",
-            "email": "cpdrenato@gmail.com"
-        }
-    ]
+  "name": "lucenarenato/consulta_sinesp",
+  "description": "SINESP Cidadao API client",
+  "keywords": ["sinesp", "sinesp-client", "placa", "veiculos", "governo", "seguranca", "utilidade"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Renato Lucena",
+      "email": "cpdrenato@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "ext-curl": "*",
+    "ext-xml": "*",
+    "ext-libxml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sinesp\\": "src/"
+    }
+  }
 }
