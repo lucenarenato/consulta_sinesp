@@ -1,0 +1,15 @@
+{
+    "name": "root/consulta-massa-placa-sinesp",
+    "description": "Consulta em massa de placas no Sinesp.",
+    "type": "project",
+    "require": {
+        "chapeupreto/sinesp": "^1.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renato Lucena",
+            "email": "cpdrenato@gmail.com"
+        }
+    ]
+}
