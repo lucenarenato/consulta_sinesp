@@ -2,7 +2,7 @@
   "name": "lucenarenato/consulta_sinesp",
   "description": "SINESP Cidadao API client",
   "keywords": ["sinesp", "sinesp-client", "placa", "veiculos", "governo", "seguranca", "utilidade"],
-  "type": "library",
+  "type": "project",
   "license": "MIT",
   "authors": [
     {
@@ -20,5 +20,7 @@
     "psr-4": {
       "Sinesp\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
