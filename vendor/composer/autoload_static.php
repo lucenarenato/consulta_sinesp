@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit4fd1076e40882f91eaa78c8d5350ccaa
+class ComposerStaticInit602a93c55e72fded22fbae6b9ed06ffd
 {
     public static $prefixLengthsPsr4 = array (
         'S' => 
@@ -16,15 +16,15 @@ class ComposerStaticInit4fd1076e40882f91eaa78c8d5350ccaa
     public static $prefixDirsPsr4 = array (
         'Sinesp\\' => 
         array (
-            0 => __DIR__ . '/..' . '/chapeupreto/sinesp/src',
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit4fd1076e40882f91eaa78c8d5350ccaa::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit4fd1076e40882f91eaa78c8d5350ccaa::$prefixDirsPsr4;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit602a93c55e72fded22fbae6b9ed06ffd::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit602a93c55e72fded22fbae6b9ed06ffd::$prefixDirsPsr4;
 
         }, null, ClassLoader::class);
     }
