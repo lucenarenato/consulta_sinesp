@@ -18,6 +18,7 @@ SINESP Cidadão é uma base de dados pública de veículos brasileiros. É muito
 - libxml / XML.
 
 ### Como usar:
+  - composer require lucenarenato/consulta_sinesp
   - Clone este repositório:
     ```sh
     $ git clone https://github.com/VitorSavedra/consultaPlacaSinesp.git
