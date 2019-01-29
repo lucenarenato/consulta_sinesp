@@ -1,4 +1,12 @@
 # Consulta de Placas - Sinesp
+## Sinesp Cidadão PHP
+
+<a href="https://packagist.org/packages/lucenarenato/consulta_sinesp"><img src="" alt="Latest stable release"></img></a>
+<a href="https://packagist.org/packages/lucenarenato/consulta_sinesp"><img src="" alt="Total downloads"></img></a>
+
+<a href="https://packagist.org/packages/lucenarenato"><img src="https://img.shields.io/badge/link-packagist-lightgrey.svg" alt="View my other packages and projects"></img></a>
+<a href="https://twitter.com/cpdrenato"><img src="https://img.shields.io/twitter/url/http/shields.io.svg" alt="Follow @cpdrenato on Twitter"></img></a>
+<a href="https://twitter.com/intent/tweet?text=Utilize%20Sinesp%20Cidadão%20agora!%20https%3A%2F%2Fgithub.com%2Flucenarenato%2Fconsulta_sinesp%20via%20%40lucenarenato&source=webclient"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Share this package on Twitter"></img></a>
 
 Script PHP que realiza consulta em massa de placas no Sinesp - Sistema Nacional de Informações de Segurança Pública (http://sinesp.gov.br).
 
