@@ -1,0 +1,24 @@
+{
+  "name": "lucenarenato/consulta_sinesp",
+  "description": "SINESP Cidadao API client",
+  "keywords": ["sinesp", "sinesp-client", "placa", "veiculos", "governo", "seguranca", "utilidade"],
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Renato Lucena",
+      "email": "cpdrenato@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "ext-curl": "*",
+    "ext-xml": "*",
+    "ext-libxml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sinesp\\": "src/"
+    }
+  }
+}
