@@ -4,6 +4,7 @@
   "keywords": ["sinesp", "sinesp-client", "placa", "veiculos", "governo", "seguranca", "utilidade"],
   "type": "project",
   "license": "MIT",
+  "homepage": "http://renatolucena.net",
   "authors": [
     {
       "name": "Renato Lucena",

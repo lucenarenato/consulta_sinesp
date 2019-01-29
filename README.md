@@ -101,6 +101,10 @@ Ainda, ao invés de utilizar todo o array retornado pelo método dados(), pode-s
 
 echo 'O municipio do veiculo é ', $veiculo->municipio;
 
+- https://packagist.org/packages/lucenarenato/consulta_sinesp
+
+- www.renatolucena.net
+
 - Renato Lucena 2019
 
 
